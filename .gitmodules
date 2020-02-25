@@ -1,0 +1,3 @@
+[submodule "html2"]
+	path = html2
+	url = https://github.com/ven231/html.git
