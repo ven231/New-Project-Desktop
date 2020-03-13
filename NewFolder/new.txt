@@ -1,3 +1,3 @@
-hi this is number 1, some content canme inside the file
+Hi, corrected the first line in the document
 This is linenumber 2
 new line added
